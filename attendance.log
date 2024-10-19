@@ -1,0 +1,441 @@
+2024-10-12 21:42:42,812 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.18.6.103:5000
+2024-10-12 21:42:42,817 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-10-12 21:42:42,823 - werkzeug - INFO -  * Restarting with stat
+2024-10-12 21:42:44,248 - werkzeug - WARNING -  * Debugger is active!
+2024-10-12 21:42:44,253 - werkzeug - INFO -  * Debugger PIN: 367-240-137
+2024-10-12 21:42:47,471 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 21:42:47] "GET / HTTP/1.1" 200 -
+2024-10-12 21:42:47,617 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 21:42:47] "[36mGET /static/mystyle.css HTTP/1.1[0m" 304 -
+2024-10-12 21:42:47,636 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 21:42:47] "[36mGET /static/Bluetooth%20Attendance.png HTTP/1.1[0m" 304 -
+2024-10-12 21:42:49,607 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 21:42:49] "[32mGET /logout HTTP/1.1[0m" 302 -
+2024-10-12 21:42:49,618 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 21:42:49] "GET / HTTP/1.1" 200 -
+2024-10-12 21:42:49,662 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 21:42:49] "[36mGET /static/mystyle.css HTTP/1.1[0m" 304 -
+2024-10-12 21:42:49,673 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 21:42:49] "[36mGET /static/Bluetooth%20Attendance.png HTTP/1.1[0m" 304 -
+2024-10-12 21:42:51,939 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 21:42:51] "GET /loginPro HTTP/1.1" 200 -
+2024-10-12 21:42:51,986 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 21:42:51] "[36mGET /static/mystyle.css HTTP/1.1[0m" 304 -
+2024-10-12 21:42:51,989 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 21:42:51] "[36mGET /static/Bluetooth%20Attendance.png HTTP/1.1[0m" 304 -
+2024-10-12 21:43:07,245 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 21:43:07] "[35m[1mPOST /loginPro HTTP/1.1[0m" 500 -
+2024-10-12 21:43:07,268 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 21:43:07] "GET /loginPro?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2024-10-12 21:43:07,273 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 21:43:07] "GET /loginPro?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2024-10-12 21:43:07,345 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 21:43:07] "GET /loginPro?__debugger__=yes&cmd=resource&f=console.png&s=bdOqjWVhrXFNxY4VQ2VV HTTP/1.1" 200 -
+2024-10-12 21:43:07,369 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 21:43:07] "[36mGET /loginPro?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-10-12 21:44:27,753 - werkzeug - INFO -  * Detected change in 'c:\\Users\\varti\\OneDrive\\Desktop\\Bluetooth-Attendance-master\\Bluetooth-Attendance-master\\app.py', reloading
+2024-10-12 21:44:28,063 - werkzeug - INFO -  * Restarting with stat
+2024-10-12 21:44:29,567 - werkzeug - WARNING -  * Debugger is active!
+2024-10-12 21:44:29,572 - werkzeug - INFO -  * Debugger PIN: 367-240-137
+2024-10-12 21:44:36,565 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 21:44:36] "[32mPOST /loginPro HTTP/1.1[0m" 302 -
+2024-10-12 21:44:36,624 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 21:44:36] "GET /dashboardPro HTTP/1.1" 200 -
+2024-10-12 21:44:36,806 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 21:44:36] "[36mGET /static/mystyle.css HTTP/1.1[0m" 304 -
+2024-10-12 21:44:36,813 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 21:44:36] "[36mGET /static/Bluetooth%20Attendance.png HTTP/1.1[0m" 304 -
+2024-10-12 22:01:47,554 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 22:01:47] "[32mGET /logout HTTP/1.1[0m" 302 -
+2024-10-12 22:01:47,582 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 22:01:47] "GET / HTTP/1.1" 200 -
+2024-10-12 22:01:47,646 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 22:01:47] "[36mGET /static/mystyle.css HTTP/1.1[0m" 304 -
+2024-10-12 22:01:47,652 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 22:01:47] "[36mGET /static/Bluetooth%20Attendance.png HTTP/1.1[0m" 304 -
+2024-10-12 22:01:51,538 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 22:01:51] "[32mGET /logout HTTP/1.1[0m" 302 -
+2024-10-12 22:01:51,550 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 22:01:51] "GET / HTTP/1.1" 200 -
+2024-10-12 22:01:51,590 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 22:01:51] "[36mGET /static/mystyle.css HTTP/1.1[0m" 304 -
+2024-10-12 22:01:51,596 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 22:01:51] "[36mGET /static/Bluetooth%20Attendance.png HTTP/1.1[0m" 304 -
+2024-10-12 22:01:58,292 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 22:01:58] "GET /registerPro HTTP/1.1" 200 -
+2024-10-12 22:01:58,332 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 22:01:58] "[36mGET /static/mystyle.css HTTP/1.1[0m" 304 -
+2024-10-12 22:01:58,333 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 22:01:58] "[36mGET /static/Bluetooth%20Attendance.png HTTP/1.1[0m" 304 -
+2024-10-12 22:02:37,256 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 22:02:37] "[32mPOST /registerPro HTTP/1.1[0m" 302 -
+2024-10-12 22:02:37,263 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 22:02:37] "GET /loginPro HTTP/1.1" 200 -
+2024-10-12 22:02:37,300 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 22:02:37] "[36mGET /static/Bluetooth%20Attendance.png HTTP/1.1[0m" 304 -
+2024-10-12 22:02:37,300 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 22:02:37] "[36mGET /static/mystyle.css HTTP/1.1[0m" 304 -
+2024-10-12 22:02:41,726 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 22:02:41] "GET /registerStu HTTP/1.1" 200 -
+2024-10-12 22:02:41,768 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 22:02:41] "[36mGET /static/mystyle.css HTTP/1.1[0m" 304 -
+2024-10-12 22:02:41,770 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 22:02:41] "[36mGET /static/Bluetooth%20Attendance.png HTTP/1.1[0m" 304 -
+2024-10-12 22:03:14,629 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 22:03:14] "[32mPOST /registerStu HTTP/1.1[0m" 302 -
+2024-10-12 22:03:14,639 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 22:03:14] "GET /loginStu HTTP/1.1" 200 -
+2024-10-12 22:03:14,685 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 22:03:14] "[36mGET /static/Bluetooth%20Attendance.png HTTP/1.1[0m" 304 -
+2024-10-12 22:03:14,686 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 22:03:14] "[36mGET /static/mystyle.css HTTP/1.1[0m" 304 -
+2024-10-12 22:03:26,332 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 22:03:26] "[32mPOST /loginStu HTTP/1.1[0m" 302 -
+2024-10-12 22:03:26,343 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 22:03:26] "GET /dashboardStu HTTP/1.1" 200 -
+2024-10-12 22:03:26,388 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 22:03:26] "[36mGET /static/mystyle.css HTTP/1.1[0m" 304 -
+2024-10-12 22:03:26,389 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 22:03:26] "[36mGET /static/Bluetooth%20Attendance.png HTTP/1.1[0m" 304 -
+2024-10-12 22:03:36,327 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 22:03:36] "GET /loginPro HTTP/1.1" 200 -
+2024-10-12 22:03:36,363 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 22:03:36] "[36mGET /static/Bluetooth%20Attendance.png HTTP/1.1[0m" 304 -
+2024-10-12 22:03:36,363 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 22:03:36] "[36mGET /static/mystyle.css HTTP/1.1[0m" 304 -
+2024-10-12 22:03:44,577 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 22:03:44] "[32mPOST /loginPro HTTP/1.1[0m" 302 -
+2024-10-12 22:03:44,586 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 22:03:44] "GET /dashboardPro HTTP/1.1" 200 -
+2024-10-12 22:03:44,631 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 22:03:44] "[36mGET /static/mystyle.css HTTP/1.1[0m" 304 -
+2024-10-12 22:03:44,632 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 22:03:44] "[36mGET /static/Bluetooth%20Attendance.png HTTP/1.1[0m" 304 -
+2024-10-12 22:03:46,066 - celery.utils.functional - DEBUG - 
+def bluescan(macs, subj):
+    return 1
+
+2024-10-12 22:03:46,323 - __main__ - INFO - Started attendance scan for subject: CS:201
+2024-10-12 22:03:46,327 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 22:03:46] "GET /check_attendance HTTP/1.1" 200 -
+2024-10-12 22:03:46,372 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 22:03:46] "[36mGET /static/mystyle.css HTTP/1.1[0m" 304 -
+2024-10-12 22:03:46,375 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 22:03:46] "[36mGET /static/Bluetooth%20Attendance.png HTTP/1.1[0m" 304 -
+2024-10-12 22:03:46,377 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 22:03:46] "[36mGET /static/radar-loading.gif HTTP/1.1[0m" 304 -
+2024-10-12 22:03:49,291 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 22:03:49] "GET /dashboardPro HTTP/1.1" 200 -
+2024-10-12 22:03:49,333 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 22:03:49] "[36mGET /static/Bluetooth%20Attendance.png HTTP/1.1[0m" 304 -
+2024-10-12 22:03:49,334 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 22:03:49] "[36mGET /static/mystyle.css HTTP/1.1[0m" 304 -
+2024-10-12 22:03:51,533 - __main__ - INFO - Started attendance scan for subject: CS:201
+2024-10-12 22:03:51,534 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 22:03:51] "GET /check_attendance HTTP/1.1" 200 -
+2024-10-12 22:03:51,571 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 22:03:51] "[36mGET /static/mystyle.css HTTP/1.1[0m" 304 -
+2024-10-12 22:03:51,572 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 22:03:51] "[36mGET /static/Bluetooth%20Attendance.png HTTP/1.1[0m" 304 -
+2024-10-12 22:03:51,577 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 22:03:51] "[36mGET /static/radar-loading.gif HTTP/1.1[0m" 304 -
+2024-10-12 22:04:00,633 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 22:04:00] "GET /dashboardPro HTTP/1.1" 200 -
+2024-10-12 22:04:00,685 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 22:04:00] "[36mGET /static/Bluetooth%20Attendance.png HTTP/1.1[0m" 304 -
+2024-10-12 22:04:00,696 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 22:04:00] "[36mGET /static/mystyle.css HTTP/1.1[0m" 304 -
+2024-10-12 22:04:04,074 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 22:04:04] "GET /dashboardStu HTTP/1.1" 200 -
+2024-10-12 22:04:04,098 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 22:04:04] "[36mGET /static/mystyle.css HTTP/1.1[0m" 304 -
+2024-10-12 22:04:04,100 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 22:04:04] "[36mGET /static/Bluetooth%20Attendance.png HTTP/1.1[0m" 304 -
+2024-10-12 22:04:04,154 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 22:04:04] "[36mGET /static/bluetooth_DIf_icon.ico HTTP/1.1[0m" 304 -
+2024-10-12 22:04:08,471 - __main__ - INFO - Started attendance scan for subject: CS:201
+2024-10-12 22:04:08,473 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 22:04:08] "GET /check_attendance HTTP/1.1" 200 -
+2024-10-12 22:04:08,502 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 22:04:08] "[36mGET /static/mystyle.css HTTP/1.1[0m" 304 -
+2024-10-12 22:04:08,507 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 22:04:08] "[36mGET /static/radar-loading.gif HTTP/1.1[0m" 304 -
+2024-10-12 22:04:08,507 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 22:04:08] "[36mGET /static/Bluetooth%20Attendance.png HTTP/1.1[0m" 304 -
+2024-10-12 22:04:23,232 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 22:04:23] "GET /dashboardPro HTTP/1.1" 200 -
+2024-10-12 22:04:23,274 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 22:04:23] "[36mGET /static/mystyle.css HTTP/1.1[0m" 304 -
+2024-10-12 22:04:23,275 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 22:04:23] "[36mGET /static/Bluetooth%20Attendance.png HTTP/1.1[0m" 304 -
+2024-10-12 22:04:32,177 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 22:04:32] "[32mGET /logout HTTP/1.1[0m" 302 -
+2024-10-12 22:04:32,185 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 22:04:32] "GET / HTTP/1.1" 200 -
+2024-10-12 22:04:32,222 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 22:04:32] "[36mGET /static/mystyle.css HTTP/1.1[0m" 304 -
+2024-10-12 22:04:32,224 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 22:04:32] "[36mGET /static/Bluetooth%20Attendance.png HTTP/1.1[0m" 304 -
+2024-10-12 22:04:34,347 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 22:04:34] "GET /loginPro HTTP/1.1" 200 -
+2024-10-12 22:04:34,389 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 22:04:34] "[36mGET /static/mystyle.css HTTP/1.1[0m" 304 -
+2024-10-12 22:04:34,390 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 22:04:34] "[36mGET /static/Bluetooth%20Attendance.png HTTP/1.1[0m" 304 -
+2024-10-12 22:04:40,704 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 22:04:40] "[32mPOST /loginPro HTTP/1.1[0m" 302 -
+2024-10-12 22:04:40,714 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 22:04:40] "GET /dashboardPro HTTP/1.1" 200 -
+2024-10-12 22:04:40,756 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 22:04:40] "[36mGET /static/mystyle.css HTTP/1.1[0m" 304 -
+2024-10-12 22:04:40,758 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 22:04:40] "[36mGET /static/Bluetooth%20Attendance.png HTTP/1.1[0m" 304 -
+2024-10-12 22:04:42,540 - __main__ - INFO - Started attendance scan for subject: CS:201
+2024-10-12 22:04:42,541 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 22:04:42] "GET /check_attendance HTTP/1.1" 200 -
+2024-10-12 22:04:42,576 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 22:04:42] "[36mGET /static/mystyle.css HTTP/1.1[0m" 304 -
+2024-10-12 22:04:42,581 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 22:04:42] "[36mGET /static/Bluetooth%20Attendance.png HTTP/1.1[0m" 304 -
+2024-10-12 22:04:42,582 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 22:04:42] "[36mGET /static/radar-loading.gif HTTP/1.1[0m" 304 -
+2024-10-12 22:04:51,504 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 22:04:51] "GET /dashboardPro HTTP/1.1" 200 -
+2024-10-12 22:04:51,541 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 22:04:51] "[36mGET /static/mystyle.css HTTP/1.1[0m" 304 -
+2024-10-12 22:04:51,542 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 22:04:51] "[36mGET /static/Bluetooth%20Attendance.png HTTP/1.1[0m" 304 -
+2024-10-12 22:04:56,283 - __main__ - INFO - Started attendance scan for subject: CS:201
+2024-10-12 22:04:56,285 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 22:04:56] "GET /check_attendance HTTP/1.1" 200 -
+2024-10-12 22:04:56,319 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 22:04:56] "[36mGET /static/mystyle.css HTTP/1.1[0m" 304 -
+2024-10-12 22:04:56,320 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 22:04:56] "[36mGET /static/radar-loading.gif HTTP/1.1[0m" 304 -
+2024-10-12 22:04:56,322 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 22:04:56] "[36mGET /static/Bluetooth%20Attendance.png HTTP/1.1[0m" 304 -
+2024-10-12 22:05:09,978 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 22:05:09] "GET /dashboardPro HTTP/1.1" 200 -
+2024-10-12 22:05:10,006 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 22:05:10] "[36mGET /static/mystyle.css HTTP/1.1[0m" 304 -
+2024-10-12 22:05:10,007 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 22:05:10] "[36mGET /static/Bluetooth%20Attendance.png HTTP/1.1[0m" 304 -
+2024-10-12 22:05:34,219 - __main__ - INFO - Started attendance scan for subject: CS:201
+2024-10-12 22:05:34,221 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 22:05:34] "GET /check_attendance HTTP/1.1" 200 -
+2024-10-12 22:05:34,259 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 22:05:34] "[36mGET /static/mystyle.css HTTP/1.1[0m" 304 -
+2024-10-12 22:05:34,261 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 22:05:34] "[36mGET /static/radar-loading.gif HTTP/1.1[0m" 304 -
+2024-10-12 22:05:34,266 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 22:05:34] "[36mGET /static/Bluetooth%20Attendance.png HTTP/1.1[0m" 304 -
+2024-10-12 22:05:43,251 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 22:05:43] "GET /dashboardPro HTTP/1.1" 200 -
+2024-10-12 22:05:43,280 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 22:05:43] "[36mGET /static/mystyle.css HTTP/1.1[0m" 304 -
+2024-10-12 22:05:43,283 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 22:05:43] "[36mGET /static/Bluetooth%20Attendance.png HTTP/1.1[0m" 304 -
+2024-10-12 22:06:28,641 - __main__ - INFO - Started attendance scan for subject: CS:201
+2024-10-12 22:06:28,642 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 22:06:28] "GET /check_attendance HTTP/1.1" 200 -
+2024-10-12 22:06:28,669 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 22:06:28] "[36mGET /static/mystyle.css HTTP/1.1[0m" 304 -
+2024-10-12 22:06:28,674 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 22:06:28] "[36mGET /static/Bluetooth%20Attendance.png HTTP/1.1[0m" 304 -
+2024-10-12 22:06:28,677 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 22:06:28] "[36mGET /static/radar-loading.gif HTTP/1.1[0m" 304 -
+2024-10-12 22:07:10,292 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 22:07:10] "GET /dashboardPro HTTP/1.1" 200 -
+2024-10-12 22:07:10,329 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 22:07:10] "[36mGET /static/mystyle.css HTTP/1.1[0m" 304 -
+2024-10-12 22:07:10,330 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 22:07:10] "[36mGET /static/Bluetooth%20Attendance.png HTTP/1.1[0m" 304 -
+2024-10-12 22:07:14,106 - __main__ - INFO - Started attendance scan for subject: CS:201
+2024-10-12 22:07:14,108 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 22:07:14] "GET /check_attendance HTTP/1.1" 200 -
+2024-10-12 22:07:14,143 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 22:07:14] "[36mGET /static/mystyle.css HTTP/1.1[0m" 304 -
+2024-10-12 22:07:14,147 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 22:07:14] "[36mGET /static/radar-loading.gif HTTP/1.1[0m" 304 -
+2024-10-12 22:07:14,170 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 22:07:14] "[36mGET /static/Bluetooth%20Attendance.png HTTP/1.1[0m" 304 -
+2024-10-12 22:11:00,132 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 22:11:00] "GET /dashboardPro HTTP/1.1" 200 -
+2024-10-12 22:11:00,177 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 22:11:00] "[36mGET /static/mystyle.css HTTP/1.1[0m" 304 -
+2024-10-12 22:11:00,184 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 22:11:00] "[36mGET /static/Bluetooth%20Attendance.png HTTP/1.1[0m" 304 -
+2024-10-12 22:14:10,481 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 22:14:10] "[36mGET /static/mystyle.css HTTP/1.1[0m" 304 -
+2024-10-12 22:14:10,491 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 22:14:10] "[36mGET /static/Bluetooth%20Attendance.png HTTP/1.1[0m" 304 -
+2024-10-12 22:17:17,961 - __main__ - INFO - Started attendance scan for subject: CS:201
+2024-10-12 22:17:17,963 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 22:17:17] "GET /check_attendance HTTP/1.1" 200 -
+2024-10-12 22:17:18,003 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 22:17:18] "[36mGET /static/mystyle.css HTTP/1.1[0m" 304 -
+2024-10-12 22:17:18,043 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 22:17:18] "[36mGET /static/Bluetooth%20Attendance.png HTTP/1.1[0m" 304 -
+2024-10-12 22:17:18,057 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 22:17:18] "[36mGET /static/radar-loading.gif HTTP/1.1[0m" 304 -
+2024-10-12 22:17:24,460 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 22:17:24] "GET /dashboardPro HTTP/1.1" 200 -
+2024-10-12 22:17:24,491 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 22:17:24] "[36mGET /static/mystyle.css HTTP/1.1[0m" 304 -
+2024-10-12 22:17:24,495 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 22:17:24] "[36mGET /static/Bluetooth%20Attendance.png HTTP/1.1[0m" 304 -
+2024-10-12 22:24:48,906 - werkzeug - INFO -  * Detected change in 'c:\\Users\\varti\\OneDrive\\Desktop\\Bluetooth-Attendance-master\\Bluetooth-Attendance-master\\app.py', reloading
+2024-10-12 22:24:49,237 - werkzeug - INFO -  * Restarting with stat
+2024-10-12 22:24:50,537 - werkzeug - WARNING -  * Debugger is active!
+2024-10-12 22:24:50,543 - werkzeug - INFO -  * Debugger PIN: 367-240-137
+2024-10-12 22:25:01,639 - celery.utils.functional - DEBUG - 
+def bluescan(macs, subj):
+    return 1
+
+2024-10-12 22:25:01,791 - __main__ - INFO - Started attendance scan for subject: CS:201
+2024-10-12 22:25:01,808 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 22:25:01] "GET /check_attendance HTTP/1.1" 200 -
+2024-10-12 22:25:01,949 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 22:25:01] "[36mGET /static/radar-loading.gif HTTP/1.1[0m" 304 -
+2024-10-12 22:25:01,950 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 22:25:01] "[36mGET /static/mystyle.css HTTP/1.1[0m" 304 -
+2024-10-12 22:25:01,980 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 22:25:01] "[36mGET /static/Bluetooth%20Attendance.png HTTP/1.1[0m" 304 -
+2024-10-12 22:25:13,434 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 22:25:13] "GET /dashboardPro HTTP/1.1" 200 -
+2024-10-12 22:25:13,475 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 22:25:13] "[36mGET /static/mystyle.css HTTP/1.1[0m" 304 -
+2024-10-12 22:25:13,477 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 22:25:13] "[36mGET /static/Bluetooth%20Attendance.png HTTP/1.1[0m" 304 -
+2024-10-12 22:30:43,851 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.18.6.103:5000
+2024-10-12 22:30:43,852 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-10-12 22:30:43,854 - werkzeug - INFO -  * Restarting with stat
+2024-10-12 22:30:45,052 - werkzeug - WARNING -  * Debugger is active!
+2024-10-12 22:30:45,057 - werkzeug - INFO -  * Debugger PIN: 367-240-137
+2024-10-12 22:31:40,339 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 22:31:40] "GET / HTTP/1.1" 200 -
+2024-10-12 22:31:40,466 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 22:31:40] "[36mGET /static/mystyle.css HTTP/1.1[0m" 304 -
+2024-10-12 22:31:40,522 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 22:31:40] "[36mGET /static/Bluetooth%20Attendance.png HTTP/1.1[0m" 304 -
+2024-10-12 22:31:46,802 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 22:31:46] "[32mGET /logout HTTP/1.1[0m" 302 -
+2024-10-12 22:31:46,816 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 22:31:46] "GET / HTTP/1.1" 200 -
+2024-10-12 22:31:46,850 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 22:31:46] "[36mGET /static/Bluetooth%20Attendance.png HTTP/1.1[0m" 304 -
+2024-10-12 22:31:46,852 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 22:31:46] "[36mGET /static/mystyle.css HTTP/1.1[0m" 304 -
+2024-10-12 22:31:48,445 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 22:31:48] "GET /loginPro HTTP/1.1" 200 -
+2024-10-12 22:31:48,497 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 22:31:48] "[36mGET /static/Bluetooth%20Attendance.png HTTP/1.1[0m" 304 -
+2024-10-12 22:31:48,521 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 22:31:48] "[36mGET /static/mystyle.css HTTP/1.1[0m" 304 -
+2024-10-12 22:31:56,531 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 22:31:56] "[32mPOST /loginPro HTTP/1.1[0m" 302 -
+2024-10-12 22:31:56,589 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 22:31:56] "GET /dashboardPro HTTP/1.1" 200 -
+2024-10-12 22:31:56,646 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 22:31:56] "[36mGET /static/Bluetooth%20Attendance.png HTTP/1.1[0m" 304 -
+2024-10-12 22:31:56,664 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 22:31:56] "[36mGET /static/mystyle.css HTTP/1.1[0m" 304 -
+2024-10-12 22:31:58,295 - celery.utils.functional - DEBUG - 
+def bluescan(macs, subj):
+    return 1
+
+2024-10-12 22:31:58,463 - __main__ - INFO - Started attendance scan for subject: CS:201
+2024-10-12 22:31:58,468 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 22:31:58] "GET /check_attendance HTTP/1.1" 200 -
+2024-10-12 22:31:58,515 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 22:31:58] "[36mGET /static/mystyle.css HTTP/1.1[0m" 304 -
+2024-10-12 22:31:58,517 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 22:31:58] "[36mGET /static/radar-loading.gif HTTP/1.1[0m" 304 -
+2024-10-12 22:31:58,518 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 22:31:58] "[36mGET /static/Bluetooth%20Attendance.png HTTP/1.1[0m" 304 -
+2024-10-12 22:36:58,347 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.18.6.103:5000
+2024-10-12 22:36:58,348 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-10-12 22:36:58,353 - werkzeug - INFO -  * Restarting with stat
+2024-10-12 22:36:59,481 - werkzeug - WARNING -  * Debugger is active!
+2024-10-12 22:36:59,486 - werkzeug - INFO -  * Debugger PIN: 367-240-137
+2024-10-12 22:37:04,631 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 22:37:04] "GET / HTTP/1.1" 200 -
+2024-10-12 22:37:04,756 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 22:37:04] "[36mGET /static/mystyle.css HTTP/1.1[0m" 304 -
+2024-10-12 22:37:04,813 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 22:37:04] "[36mGET /static/Bluetooth%20Attendance.png HTTP/1.1[0m" 304 -
+2024-10-12 22:37:06,577 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 22:37:06] "[32mGET /logout HTTP/1.1[0m" 302 -
+2024-10-12 22:37:06,583 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 22:37:06] "GET / HTTP/1.1" 200 -
+2024-10-12 22:37:06,620 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 22:37:06] "[36mGET /static/mystyle.css HTTP/1.1[0m" 304 -
+2024-10-12 22:37:06,626 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 22:37:06] "[36mGET /static/Bluetooth%20Attendance.png HTTP/1.1[0m" 304 -
+2024-10-12 22:37:24,797 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 22:37:24] "GET /loginPro HTTP/1.1" 200 -
+2024-10-12 22:37:24,835 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 22:37:24] "[36mGET /static/mystyle.css HTTP/1.1[0m" 304 -
+2024-10-12 22:37:24,836 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 22:37:24] "[36mGET /static/Bluetooth%20Attendance.png HTTP/1.1[0m" 304 -
+2024-10-12 22:37:33,303 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 22:37:33] "[32mPOST /loginPro HTTP/1.1[0m" 302 -
+2024-10-12 22:37:33,317 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 22:37:33] "GET /dashboardPro HTTP/1.1" 200 -
+2024-10-12 22:37:33,372 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 22:37:33] "[36mGET /static/mystyle.css HTTP/1.1[0m" 304 -
+2024-10-12 22:37:33,375 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 22:37:33] "[36mGET /static/Bluetooth%20Attendance.png HTTP/1.1[0m" 304 -
+2024-10-12 22:42:12,912 - werkzeug - INFO -  * Detected change in 'c:\\Users\\varti\\OneDrive\\Desktop\\Bluetooth-Attendance-master\\Bluetooth-Attendance-master\\app.py', reloading
+2024-10-12 22:42:13,136 - werkzeug - INFO -  * Restarting with stat
+2024-10-12 22:49:45,930 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.18.6.103:5000
+2024-10-12 22:49:45,933 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-10-12 22:49:45,936 - werkzeug - INFO -  * Restarting with stat
+2024-10-12 22:49:47,408 - werkzeug - WARNING -  * Debugger is active!
+2024-10-12 22:49:47,414 - werkzeug - INFO -  * Debugger PIN: 367-240-137
+2024-10-12 22:50:05,304 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 22:50:05] "GET / HTTP/1.1" 200 -
+2024-10-12 22:50:05,428 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 22:50:05] "[36mGET /static/mystyle.css HTTP/1.1[0m" 304 -
+2024-10-12 22:50:05,475 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 22:50:05] "[36mGET /static/Bluetooth%20Attendance.png HTTP/1.1[0m" 304 -
+2024-10-12 22:50:08,034 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 22:50:08] "[32mGET /logout HTTP/1.1[0m" 302 -
+2024-10-12 22:50:08,042 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 22:50:08] "GET / HTTP/1.1" 200 -
+2024-10-12 22:50:08,078 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 22:50:08] "[36mGET /static/mystyle.css HTTP/1.1[0m" 304 -
+2024-10-12 22:50:08,082 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 22:50:08] "[36mGET /static/Bluetooth%20Attendance.png HTTP/1.1[0m" 304 -
+2024-10-12 22:50:11,497 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 22:50:11] "GET /loginPro HTTP/1.1" 200 -
+2024-10-12 22:50:11,540 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 22:50:11] "[36mGET /static/Bluetooth%20Attendance.png HTTP/1.1[0m" 304 -
+2024-10-12 22:50:11,549 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 22:50:11] "[36mGET /static/mystyle.css HTTP/1.1[0m" 304 -
+2024-10-12 22:50:19,833 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 22:50:19] "[32mPOST /loginPro HTTP/1.1[0m" 302 -
+2024-10-12 22:50:19,852 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 22:50:19] "GET /dashboardPro HTTP/1.1" 200 -
+2024-10-12 22:50:19,898 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 22:50:19] "[36mGET /static/mystyle.css HTTP/1.1[0m" 304 -
+2024-10-12 22:50:19,900 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 22:50:19] "[36mGET /static/Bluetooth%20Attendance.png HTTP/1.1[0m" 304 -
+2024-10-12 22:50:22,957 - celery.utils.functional - DEBUG - 
+def bluescan(macs, subj):
+    return 1
+
+2024-10-12 22:50:23,121 - __main__ - INFO - Started attendance scan for subject: CS:201
+2024-10-12 22:50:23,125 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 22:50:23] "GET /check_attendance HTTP/1.1" 200 -
+2024-10-12 22:50:23,168 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 22:50:23] "[36mGET /static/mystyle.css HTTP/1.1[0m" 304 -
+2024-10-12 22:50:23,168 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 22:50:23] "[36mGET /static/Bluetooth%20Attendance.png HTTP/1.1[0m" 304 -
+2024-10-12 22:50:23,183 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 22:50:23] "[36mGET /static/radar-loading.gif HTTP/1.1[0m" 304 -
+2024-10-12 22:51:26,845 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 22:51:26] "GET /dashboardPro HTTP/1.1" 200 -
+2024-10-12 22:51:26,877 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 22:51:26] "[36mGET /static/mystyle.css HTTP/1.1[0m" 304 -
+2024-10-12 22:51:26,878 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 22:51:26] "[36mGET /static/Bluetooth%20Attendance.png HTTP/1.1[0m" 304 -
+2024-10-13 12:00:54,149 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.18.6.229:5000
+2024-10-13 12:00:54,151 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-10-13 12:00:54,156 - werkzeug - INFO -  * Restarting with stat
+2024-10-13 12:00:55,189 - werkzeug - WARNING -  * Debugger is active!
+2024-10-13 12:00:55,192 - werkzeug - INFO -  * Debugger PIN: 367-240-137
+2024-10-13 12:00:59,229 - werkzeug - INFO - 127.0.0.1 - - [13/Oct/2024 12:00:59] "GET / HTTP/1.1" 200 -
+2024-10-13 12:00:59,365 - werkzeug - INFO - 127.0.0.1 - - [13/Oct/2024 12:00:59] "[36mGET /static/Bluetooth%20Attendance.png HTTP/1.1[0m" 304 -
+2024-10-13 12:00:59,368 - werkzeug - INFO - 127.0.0.1 - - [13/Oct/2024 12:00:59] "[36mGET /static/mystyle.css HTTP/1.1[0m" 304 -
+2024-10-13 12:01:00,448 - werkzeug - INFO - 127.0.0.1 - - [13/Oct/2024 12:01:00] "[36mGET /static/bluetooth_DIf_icon.ico HTTP/1.1[0m" 304 -
+2024-10-13 12:13:20,041 - werkzeug - INFO - 127.0.0.1 - - [13/Oct/2024 12:13:20] "GET /registerPro HTTP/1.1" 200 -
+2024-10-13 12:13:20,085 - werkzeug - INFO - 127.0.0.1 - - [13/Oct/2024 12:13:20] "[36mGET /static/mystyle.css HTTP/1.1[0m" 304 -
+2024-10-13 12:13:20,116 - werkzeug - INFO - 127.0.0.1 - - [13/Oct/2024 12:13:20] "[36mGET /static/Bluetooth%20Attendance.png HTTP/1.1[0m" 304 -
+2024-10-13 12:13:25,770 - werkzeug - INFO - 127.0.0.1 - - [13/Oct/2024 12:13:25] "GET / HTTP/1.1" 200 -
+2024-10-13 12:13:25,830 - werkzeug - INFO - 127.0.0.1 - - [13/Oct/2024 12:13:25] "[36mGET /static/Bluetooth%20Attendance.png HTTP/1.1[0m" 304 -
+2024-10-13 12:13:25,832 - werkzeug - INFO - 127.0.0.1 - - [13/Oct/2024 12:13:25] "[36mGET /static/mystyle.css HTTP/1.1[0m" 304 -
+2024-10-13 12:13:31,516 - werkzeug - INFO - 127.0.0.1 - - [13/Oct/2024 12:13:31] "GET /registerStu HTTP/1.1" 200 -
+2024-10-13 12:13:31,632 - werkzeug - INFO - 127.0.0.1 - - [13/Oct/2024 12:13:31] "[36mGET /static/Bluetooth%20Attendance.png HTTP/1.1[0m" 304 -
+2024-10-13 12:13:31,649 - werkzeug - INFO - 127.0.0.1 - - [13/Oct/2024 12:13:31] "[36mGET /static/mystyle.css HTTP/1.1[0m" 304 -
+2024-10-13 12:13:38,319 - werkzeug - INFO - 127.0.0.1 - - [13/Oct/2024 12:13:38] "GET / HTTP/1.1" 200 -
+2024-10-13 12:13:38,372 - werkzeug - INFO - 127.0.0.1 - - [13/Oct/2024 12:13:38] "[36mGET /static/mystyle.css HTTP/1.1[0m" 304 -
+2024-10-13 12:13:38,424 - werkzeug - INFO - 127.0.0.1 - - [13/Oct/2024 12:13:38] "[36mGET /static/Bluetooth%20Attendance.png HTTP/1.1[0m" 304 -
+2024-10-13 12:13:40,156 - werkzeug - INFO - 127.0.0.1 - - [13/Oct/2024 12:13:40] "GET /loginPro HTTP/1.1" 200 -
+2024-10-13 12:13:40,216 - werkzeug - INFO - 127.0.0.1 - - [13/Oct/2024 12:13:40] "[36mGET /static/Bluetooth%20Attendance.png HTTP/1.1[0m" 304 -
+2024-10-13 12:13:40,219 - werkzeug - INFO - 127.0.0.1 - - [13/Oct/2024 12:13:40] "[36mGET /static/mystyle.css HTTP/1.1[0m" 304 -
+2024-10-13 12:13:52,086 - werkzeug - INFO - 127.0.0.1 - - [13/Oct/2024 12:13:52] "[35m[1mPOST /loginPro HTTP/1.1[0m" 500 -
+2024-10-13 12:13:52,156 - werkzeug - INFO - 127.0.0.1 - - [13/Oct/2024 12:13:52] "[36mGET /loginPro?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-10-13 12:13:52,194 - werkzeug - INFO - 127.0.0.1 - - [13/Oct/2024 12:13:52] "[36mGET /loginPro?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-10-13 12:13:52,278 - werkzeug - INFO - 127.0.0.1 - - [13/Oct/2024 12:13:52] "GET /loginPro?__debugger__=yes&cmd=resource&f=console.png&s=oWezFuWOysPa5EKsDHM6 HTTP/1.1" 200 -
+2024-10-13 12:13:52,301 - werkzeug - INFO - 127.0.0.1 - - [13/Oct/2024 12:13:52] "[36mGET /loginPro?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-10-13 12:14:18,762 - werkzeug - INFO - 127.0.0.1 - - [13/Oct/2024 12:14:18] "GET / HTTP/1.1" 200 -
+2024-10-13 12:14:18,804 - werkzeug - INFO - 127.0.0.1 - - [13/Oct/2024 12:14:18] "[36mGET /static/Bluetooth%20Attendance.png HTTP/1.1[0m" 304 -
+2024-10-13 12:14:18,804 - werkzeug - INFO - 127.0.0.1 - - [13/Oct/2024 12:14:18] "[36mGET /static/mystyle.css HTTP/1.1[0m" 304 -
+2024-10-13 12:14:21,538 - werkzeug - INFO - 127.0.0.1 - - [13/Oct/2024 12:14:21] "GET /loginStu HTTP/1.1" 200 -
+2024-10-13 12:14:21,575 - werkzeug - INFO - 127.0.0.1 - - [13/Oct/2024 12:14:21] "[36mGET /static/mystyle.css HTTP/1.1[0m" 304 -
+2024-10-13 12:14:21,579 - werkzeug - INFO - 127.0.0.1 - - [13/Oct/2024 12:14:21] "[36mGET /static/Bluetooth%20Attendance.png HTTP/1.1[0m" 304 -
+2024-10-18 15:08:00,990 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.109.101:5000
+2024-10-18 15:08:00,994 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-10-18 15:08:01,000 - werkzeug - INFO -  * Restarting with stat
+2024-10-18 15:08:02,184 - werkzeug - WARNING -  * Debugger is active!
+2024-10-18 15:08:02,188 - werkzeug - INFO -  * Debugger PIN: 367-240-137
+2024-10-18 15:08:04,998 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 15:08:04] "GET / HTTP/1.1" 200 -
+2024-10-18 15:08:05,152 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 15:08:05] "[36mGET /static/mystyle.css HTTP/1.1[0m" 304 -
+2024-10-18 15:08:05,157 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 15:08:05] "[36mGET /static/Bluetooth%20Attendance.png HTTP/1.1[0m" 304 -
+2024-10-18 15:08:07,081 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 15:08:07] "GET /loginPro HTTP/1.1" 200 -
+2024-10-18 15:08:07,126 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 15:08:07] "[36mGET /static/Bluetooth%20Attendance.png HTTP/1.1[0m" 304 -
+2024-10-18 15:08:07,127 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 15:08:07] "[36mGET /static/mystyle.css HTTP/1.1[0m" 304 -
+2024-10-18 15:08:16,184 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 15:08:16] "[35m[1mPOST /loginPro HTTP/1.1[0m" 500 -
+2024-10-18 15:08:16,372 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 15:08:16] "GET /loginPro?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2024-10-18 15:08:16,393 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 15:08:16] "GET /loginPro?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2024-10-18 15:08:16,442 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 15:08:16] "GET /loginPro?__debugger__=yes&cmd=resource&f=console.png&s=5cmc8BAttDOZjTJD7TkI HTTP/1.1" 200 -
+2024-10-18 15:08:16,559 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 15:08:16] "GET /loginPro?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2024-10-18 15:09:06,643 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 15:09:06] "GET /registerPro HTTP/1.1" 200 -
+2024-10-18 15:09:06,680 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 15:09:06] "[36mGET /static/mystyle.css HTTP/1.1[0m" 304 -
+2024-10-18 15:09:06,681 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 15:09:06] "[36mGET /static/Bluetooth%20Attendance.png HTTP/1.1[0m" 304 -
+2024-10-18 15:09:31,344 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 15:09:31] "[32mPOST /registerPro HTTP/1.1[0m" 302 -
+2024-10-18 15:09:31,354 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 15:09:31] "GET /loginPro HTTP/1.1" 200 -
+2024-10-18 15:09:31,394 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 15:09:31] "[36mGET /static/mystyle.css HTTP/1.1[0m" 304 -
+2024-10-18 15:09:31,400 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 15:09:31] "[36mGET /static/Bluetooth%20Attendance.png HTTP/1.1[0m" 304 -
+2024-10-18 15:09:40,703 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 15:09:40] "[32mPOST /loginPro HTTP/1.1[0m" 302 -
+2024-10-18 15:09:40,738 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 15:09:40] "GET /dashboardPro HTTP/1.1" 200 -
+2024-10-18 15:09:40,774 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 15:09:40] "[36mGET /static/mystyle.css HTTP/1.1[0m" 304 -
+2024-10-18 15:09:40,774 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 15:09:40] "[36mGET /static/Bluetooth%20Attendance.png HTTP/1.1[0m" 304 -
+2024-10-18 15:09:42,480 - celery.utils.functional - DEBUG - 
+def bluescan(macs, subj):
+    return 1
+
+2024-10-18 15:09:42,778 - __main__ - INFO - Started attendance scan for subject: python
+2024-10-18 15:09:42,792 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 15:09:42] "GET /check_attendance HTTP/1.1" 200 -
+2024-10-18 15:09:42,821 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 15:09:42] "[36mGET /static/mystyle.css HTTP/1.1[0m" 304 -
+2024-10-18 15:09:42,842 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 15:09:42] "[36mGET /static/Bluetooth%20Attendance.png HTTP/1.1[0m" 304 -
+2024-10-18 15:09:42,861 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 15:09:42] "[36mGET /static/radar-loading.gif HTTP/1.1[0m" 304 -
+2024-10-18 15:09:44,461 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 15:09:44] "GET /dashboardPro HTTP/1.1" 200 -
+2024-10-18 15:09:44,491 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 15:09:44] "[36mGET /static/Bluetooth%20Attendance.png HTTP/1.1[0m" 304 -
+2024-10-18 15:09:44,492 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 15:09:44] "[36mGET /static/mystyle.css HTTP/1.1[0m" 304 -
+2024-10-18 15:09:50,747 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 15:09:50] "[32mGET /logout HTTP/1.1[0m" 302 -
+2024-10-18 15:09:50,758 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 15:09:50] "GET / HTTP/1.1" 200 -
+2024-10-18 15:09:50,801 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 15:09:50] "[36mGET /static/mystyle.css HTTP/1.1[0m" 304 -
+2024-10-18 15:09:50,801 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 15:09:50] "[36mGET /static/Bluetooth%20Attendance.png HTTP/1.1[0m" 304 -
+2024-10-18 15:10:43,241 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 15:10:43] "GET /registerStu HTTP/1.1" 200 -
+2024-10-18 15:10:43,277 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 15:10:43] "[36mGET /static/mystyle.css HTTP/1.1[0m" 304 -
+2024-10-18 15:10:43,277 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 15:10:43] "[36mGET /static/Bluetooth%20Attendance.png HTTP/1.1[0m" 304 -
+2024-10-18 15:10:56,921 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 15:10:56] "GET /loginStu HTTP/1.1" 200 -
+2024-10-18 15:10:56,957 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 15:10:56] "[36mGET /static/mystyle.css HTTP/1.1[0m" 304 -
+2024-10-18 15:10:56,957 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 15:10:56] "[36mGET /static/Bluetooth%20Attendance.png HTTP/1.1[0m" 304 -
+2024-10-18 15:11:02,126 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 15:11:02] "POST /loginStu HTTP/1.1" 200 -
+2024-10-18 15:11:02,142 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 15:11:02] "[36mGET /static/mystyle.css HTTP/1.1[0m" 304 -
+2024-10-18 15:11:02,148 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 15:11:02] "[36mGET /static/Bluetooth%20Attendance.png HTTP/1.1[0m" 304 -
+2024-10-18 15:11:08,708 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 15:11:08] "POST /loginStu HTTP/1.1" 200 -
+2024-10-18 15:11:08,733 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 15:11:08] "[36mGET /static/mystyle.css HTTP/1.1[0m" 304 -
+2024-10-18 15:11:08,740 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 15:11:08] "[36mGET /static/Bluetooth%20Attendance.png HTTP/1.1[0m" 304 -
+2024-10-18 15:11:16,474 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 15:11:16] "GET /loginStu HTTP/1.1" 200 -
+2024-10-18 15:11:16,506 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 15:11:16] "[36mGET /static/mystyle.css HTTP/1.1[0m" 304 -
+2024-10-18 15:11:16,506 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 15:11:16] "[36mGET /static/Bluetooth%20Attendance.png HTTP/1.1[0m" 304 -
+2024-10-18 15:11:19,394 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 15:11:19] "GET /registerStu HTTP/1.1" 200 -
+2024-10-18 15:11:19,447 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 15:11:19] "[36mGET /static/Bluetooth%20Attendance.png HTTP/1.1[0m" 304 -
+2024-10-18 15:11:19,447 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 15:11:19] "[36mGET /static/mystyle.css HTTP/1.1[0m" 304 -
+2024-10-18 15:11:43,917 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 15:11:43] "GET /about HTTP/1.1" 200 -
+2024-10-18 15:11:43,953 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 15:11:43] "[36mGET /static/mystyle.css HTTP/1.1[0m" 304 -
+2024-10-18 15:11:43,954 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 15:11:43] "[36mGET /static/Bluetooth%20Attendance.png HTTP/1.1[0m" 304 -
+2024-10-18 15:11:46,624 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 15:11:46] "GET / HTTP/1.1" 200 -
+2024-10-18 15:11:46,655 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 15:11:46] "[36mGET /static/mystyle.css HTTP/1.1[0m" 304 -
+2024-10-18 15:11:46,657 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 15:11:46] "[36mGET /static/Bluetooth%20Attendance.png HTTP/1.1[0m" 304 -
+2024-10-18 15:12:24,492 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 15:12:24] "GET /registerStu HTTP/1.1" 200 -
+2024-10-18 15:12:24,581 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 15:12:24] "[36mGET /static/mystyle.css HTTP/1.1[0m" 304 -
+2024-10-18 15:12:24,584 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 15:12:24] "[36mGET /static/Bluetooth%20Attendance.png HTTP/1.1[0m" 304 -
+2024-10-18 15:13:13,510 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 15:13:13] "[32mPOST /registerStu HTTP/1.1[0m" 302 -
+2024-10-18 15:13:13,518 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 15:13:13] "GET /loginStu HTTP/1.1" 200 -
+2024-10-18 15:13:13,562 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 15:13:13] "[36mGET /static/mystyle.css HTTP/1.1[0m" 304 -
+2024-10-18 15:13:13,563 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 15:13:13] "[36mGET /static/Bluetooth%20Attendance.png HTTP/1.1[0m" 304 -
+2024-10-18 15:13:22,047 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 15:13:22] "[32mPOST /loginStu HTTP/1.1[0m" 302 -
+2024-10-18 15:13:22,073 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 15:13:22] "GET /dashboardStu HTTP/1.1" 200 -
+2024-10-18 15:13:22,122 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 15:13:22] "[36mGET /static/mystyle.css HTTP/1.1[0m" 304 -
+2024-10-18 15:13:22,126 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 15:13:22] "[36mGET /static/Bluetooth%20Attendance.png HTTP/1.1[0m" 304 -
+2024-10-18 15:13:42,721 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 15:13:42] "GET /dashboardStu HTTP/1.1" 200 -
+2024-10-18 15:13:42,746 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 15:13:42] "[36mGET /static/mystyle.css HTTP/1.1[0m" 304 -
+2024-10-18 15:13:42,747 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 15:13:42] "[36mGET /static/Bluetooth%20Attendance.png HTTP/1.1[0m" 304 -
+2024-10-18 15:13:45,155 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 15:13:45] "[32mGET /logout HTTP/1.1[0m" 302 -
+2024-10-18 15:13:45,163 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 15:13:45] "GET / HTTP/1.1" 200 -
+2024-10-18 15:13:45,205 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 15:13:45] "[36mGET /static/mystyle.css HTTP/1.1[0m" 304 -
+2024-10-18 15:13:45,205 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 15:13:45] "[36mGET /static/Bluetooth%20Attendance.png HTTP/1.1[0m" 304 -
+2024-10-18 15:47:07,083 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 15:47:07] "GET /loginPro HTTP/1.1" 200 -
+2024-10-18 15:47:07,120 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 15:47:07] "[36mGET /static/mystyle.css HTTP/1.1[0m" 304 -
+2024-10-18 15:47:07,158 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 15:47:07] "[36mGET /static/Bluetooth%20Attendance.png HTTP/1.1[0m" 304 -
+2024-10-18 15:47:14,392 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 15:47:14] "[32mPOST /loginPro HTTP/1.1[0m" 302 -
+2024-10-18 15:47:14,401 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 15:47:14] "GET /dashboardPro HTTP/1.1" 200 -
+2024-10-18 15:47:14,448 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 15:47:14] "[36mGET /static/mystyle.css HTTP/1.1[0m" 304 -
+2024-10-18 15:47:14,454 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 15:47:14] "[36mGET /static/Bluetooth%20Attendance.png HTTP/1.1[0m" 304 -
+2024-10-18 15:47:17,368 - __main__ - INFO - Started attendance scan for subject: python
+2024-10-18 15:47:17,370 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 15:47:17] "GET /check_attendance HTTP/1.1" 200 -
+2024-10-18 15:47:17,405 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 15:47:17] "[36mGET /static/mystyle.css HTTP/1.1[0m" 304 -
+2024-10-18 15:47:17,410 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 15:47:17] "[36mGET /static/Bluetooth%20Attendance.png HTTP/1.1[0m" 304 -
+2024-10-18 15:47:17,410 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 15:47:17] "[36mGET /static/radar-loading.gif HTTP/1.1[0m" 304 -
+2024-10-18 15:47:18,741 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 15:47:18] "GET /dashboardPro HTTP/1.1" 200 -
+2024-10-18 15:47:18,784 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 15:47:18] "[36mGET /static/Bluetooth%20Attendance.png HTTP/1.1[0m" 304 -
+2024-10-18 15:47:18,785 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 15:47:18] "[36mGET /static/mystyle.css HTTP/1.1[0m" 304 -
+2024-10-18 15:47:20,668 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 15:47:20] "[32mGET /logout HTTP/1.1[0m" 302 -
+2024-10-18 15:47:20,680 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 15:47:20] "GET / HTTP/1.1" 200 -
+2024-10-18 15:47:20,712 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 15:47:20] "[36mGET /static/mystyle.css HTTP/1.1[0m" 304 -
+2024-10-18 15:47:20,713 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 15:47:20] "[36mGET /static/Bluetooth%20Attendance.png HTTP/1.1[0m" 304 -
+2024-10-18 16:07:10,012 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 16:07:10] "GET /registerStu HTTP/1.1" 200 -
+2024-10-18 16:07:10,068 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 16:07:10] "[36mGET /static/mystyle.css HTTP/1.1[0m" 304 -
+2024-10-18 16:07:10,082 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 16:07:10] "[36mGET /static/Bluetooth%20Attendance.png HTTP/1.1[0m" 304 -
+2024-10-18 16:07:49,932 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 16:07:49] "[32mPOST /registerStu HTTP/1.1[0m" 302 -
+2024-10-18 16:07:49,939 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 16:07:49] "GET /loginStu HTTP/1.1" 200 -
+2024-10-18 16:07:49,988 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 16:07:49] "[36mGET /static/mystyle.css HTTP/1.1[0m" 304 -
+2024-10-18 16:07:50,000 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 16:07:50] "[36mGET /static/Bluetooth%20Attendance.png HTTP/1.1[0m" 304 -
+2024-10-18 16:08:02,642 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 16:08:02] "[32mPOST /loginStu HTTP/1.1[0m" 302 -
+2024-10-18 16:08:02,656 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 16:08:02] "GET /dashboardStu HTTP/1.1" 200 -
+2024-10-18 16:08:02,710 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 16:08:02] "[36mGET /static/Bluetooth%20Attendance.png HTTP/1.1[0m" 304 -
+2024-10-18 16:08:02,710 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 16:08:02] "[36mGET /static/mystyle.css HTTP/1.1[0m" 304 -
+2024-10-18 16:08:13,238 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 16:08:13] "[32mGET /logout HTTP/1.1[0m" 302 -
+2024-10-18 16:08:13,245 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 16:08:13] "GET / HTTP/1.1" 200 -
+2024-10-18 16:08:13,292 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 16:08:13] "[36mGET /static/mystyle.css HTTP/1.1[0m" 304 -
+2024-10-18 16:08:13,294 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 16:08:13] "[36mGET /static/Bluetooth%20Attendance.png HTTP/1.1[0m" 304 -
+2024-10-18 16:08:15,517 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 16:08:15] "GET /registerPro HTTP/1.1" 200 -
+2024-10-18 16:08:15,555 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 16:08:15] "[36mGET /static/mystyle.css HTTP/1.1[0m" 304 -
+2024-10-18 16:08:15,558 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 16:08:15] "[36mGET /static/Bluetooth%20Attendance.png HTTP/1.1[0m" 304 -
+2024-10-18 16:08:42,578 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 16:08:42] "[32mPOST /registerPro HTTP/1.1[0m" 302 -
+2024-10-18 16:08:42,584 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 16:08:42] "GET /loginPro HTTP/1.1" 200 -
+2024-10-18 16:08:42,622 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 16:08:42] "[36mGET /static/mystyle.css HTTP/1.1[0m" 304 -
+2024-10-18 16:08:42,630 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 16:08:42] "[36mGET /static/Bluetooth%20Attendance.png HTTP/1.1[0m" 304 -
+2024-10-18 16:08:50,327 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 16:08:50] "[32mPOST /loginPro HTTP/1.1[0m" 302 -
+2024-10-18 16:08:50,338 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 16:08:50] "GET /dashboardPro HTTP/1.1" 200 -
+2024-10-18 16:08:50,390 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 16:08:50] "[36mGET /static/mystyle.css HTTP/1.1[0m" 304 -
+2024-10-18 16:08:50,421 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 16:08:50] "[36mGET /static/Bluetooth%20Attendance.png HTTP/1.1[0m" 304 -
+2024-10-18 16:08:57,424 - __main__ - INFO - Started attendance scan for subject: software
+2024-10-18 16:08:57,427 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 16:08:57] "GET /check_attendance HTTP/1.1" 200 -
+2024-10-18 16:08:57,467 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 16:08:57] "[36mGET /static/radar-loading.gif HTTP/1.1[0m" 304 -
+2024-10-18 16:08:57,468 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 16:08:57] "[36mGET /static/mystyle.css HTTP/1.1[0m" 304 -
+2024-10-18 16:08:57,525 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 16:08:57] "[36mGET /static/Bluetooth%20Attendance.png HTTP/1.1[0m" 304 -
+2024-10-18 16:09:50,598 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 16:09:50] "GET /dashboardPro HTTP/1.1" 200 -
+2024-10-18 16:09:50,627 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 16:09:50] "[36mGET /static/mystyle.css HTTP/1.1[0m" 304 -
+2024-10-18 16:09:50,629 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 16:09:50] "[36mGET /static/Bluetooth%20Attendance.png HTTP/1.1[0m" 304 -
